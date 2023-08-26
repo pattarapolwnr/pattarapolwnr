@@ -7,7 +7,7 @@ Frontend Developer
 I was a software engineer intern at SCB (1 June - 27 July 2023) and I was assigned to deposit protection agency project using GO.
 
 * 🌍  I'm based in Pathumtani
-* 🖥️  See my portfolio at [click here](http://pattarapol.netlify.app)
+* 🖥️  See my portfolio at [click here](http://pattarapolw.netlify.app)
 * ✉️  You can contact me at [pattarapol.wangnirun@gmail.com](mailto:pattarapol.wangnirun@gmail.com)
 * 🧠  I'm learning TypeScript, Next.js
 * 🤝  I'm open to collaborating on web development project
